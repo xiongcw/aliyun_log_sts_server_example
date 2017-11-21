@@ -1,0 +1,23 @@
+# Logfile created on 2017-11-14 15:31:22 +0800 by logger.rb/56815
+I, [2017-11-14T15:31:22.664408 #52411]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fe9905125a8>, duration: 900
+E, [2017-11-14T15:31:22.739064 #52411] ERROR -- : RequestId: 69BFB949-7A8F-44A0-AAFE-F5FBABFC4CEA, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:33:31.782075 #52420]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fb104221e08>, duration: 900
+E, [2017-11-14T15:33:31.867093 #52420] ERROR -- : RequestId: 89DB4B3E-4A14-4935-8785-D299F7DFE8D1, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:33:33.690668 #52420]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fb104335498>, duration: 900
+E, [2017-11-14T15:33:33.762293 #52420] ERROR -- : RequestId: 582ED5A3-9736-4D4C-8229-7AF90A1BC4B4, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:40:28.032084 #52472]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fc465495cd8>, duration: 900
+E, [2017-11-14T15:40:28.133259 #52472] ERROR -- : RequestId: 88C42694-7D27-4EBE-9697-3A2BC9352B35, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:42:04.010921 #52480]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fc057bfdb68>, duration: 900
+E, [2017-11-14T15:42:04.094464 #52480] ERROR -- : RequestId: C64B3C55-DC2D-4B80-8C3E-F1F9D24DADB4, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:42:09.104373 #52480]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fc059a97ee8>, duration: 900
+E, [2017-11-14T15:42:09.173451 #52480] ERROR -- : RequestId: FD341FE2-D94E-47F3-987C-4FA55D3F3DD4, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:42:36.158848 #52480]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fc0585f2a88>, duration: 900
+E, [2017-11-14T15:42:36.282576 #52480] ERROR -- : RequestId: EC6104DD-7EEB-4BB3-958D-F8B7C6C9779E, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:43:29.330388 #52487]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007ff667a45c58>, duration: 900
+E, [2017-11-14T15:43:29.415764 #52487] ERROR -- : RequestId: 3F61654E-6745-415F-9F9B-BA824D1EED59, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:44:13.796897 #52493]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fb01f13a340>, duration: 900
+E, [2017-11-14T15:44:13.887668 #52493] ERROR -- : RequestId: 6FCCF596-019C-49D6-AE81-6D7385998692, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:48:00.251614 #52503]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fe3fec3a8b8>, duration: 900
+E, [2017-11-14T15:48:00.336741 #52503] ERROR -- : RequestId: E7D6390A-966B-411D-B0EE-22B41084F787, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404
+I, [2017-11-14T15:49:20.585743 #52511]  INFO -- : Begin assume role, role: , session: my-app, policy: #<RawPolicy:0x007fc9edcb63d0>, duration: 900
+E, [2017-11-14T15:49:20.655634 #52511] ERROR -- : RequestId: 500C5E4E-9CB7-4872-A89F-2984BC115B81, HostId: sts.aliyuncs.com, Code: InvalidAccessKeyId.NotFound, Message: Specified access key is not found., HTTPCode: 404

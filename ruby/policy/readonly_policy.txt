@@ -1,0 +1,13 @@
+{
+  "Statement": [
+    {
+      "Action": [
+        "log:Get*",
+	"log:List*"
+      ],
+      "Effect": "Allow",
+      "Resource": ["acs:log:*:*:*"]
+    }
+  ],
+  "Version": "1"
+}

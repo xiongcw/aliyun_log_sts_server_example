@@ -1,0 +1,12 @@
+{
+  "Statement": [
+    {
+      "Action": [
+        "log:PostLogStoreLogs"
+      ],
+      "Effect": "Allow",
+      "Resource": ["acs:log:*:*:*"]
+    }
+  ],
+  "Version": "1"
+}
